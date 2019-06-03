@@ -16,7 +16,7 @@ For the workshop you'll need:
 
 - A laptop running the latest macOS or Windows with your preferred web browser and text editor installed
 - If you are using a Windows computer, please install [NVDA](https://www.nvaccess.org/download/) screen reader
-- The [demo site source files](https://github.com/shopifypartners/web-accessibility-for-developers-workshop-files/) – downloaded to your computer and loaded in your text editor
+- The [demo site source files](https://github.com/shopifypartners/web-accessibility-for-developers-workshop-files/archive/master.zip) – downloaded to your computer and loaded in your text editor.
 
 ## Prerequisites
 
