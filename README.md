@@ -2,6 +2,8 @@
 
 > Essential Tools for Inclusive Coding
 
+You can view [the workshop slides here](https://docs.google.com/presentation/d/1aUSWicEn3TWGdkW9oGqe0RlZkKM1ohYi1uku4zpMErc/edit?usp=sharing).
+
 Please download/clone this repository when participating in the Shopify Partners' Web Accessibility for Developers workshop.
 
 During this 1-day workshop we'll be covering a number of different topics, all of which will be focused on usability, accessibility, and inclusive thinking in design and development.
